@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeturContact", "SeturContact\SeturContact.csproj", "{69359198-3A72-42D1-81EF-9C324B6ED166}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeturReport", "SeturReport\SeturReport.csproj", "{AEF8D2BC-59C6-4196-8BCE-1C1F5EB0E0AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeturContactApp", "SeturContactApp\SeturContactApp.csproj", "{36561B94-186E-4012-BE6C-CA278B350E72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeturTest", "SeturTest\SeturTest.csproj", "{DFB55096-5EC6-4515-A584-366AE1A484CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69359198-3A72-42D1-81EF-9C324B6ED166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69359198-3A72-42D1-81EF-9C324B6ED166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69359198-3A72-42D1-81EF-9C324B6ED166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69359198-3A72-42D1-81EF-9C324B6ED166}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEF8D2BC-59C6-4196-8BCE-1C1F5EB0E0AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEF8D2BC-59C6-4196-8BCE-1C1F5EB0E0AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEF8D2BC-59C6-4196-8BCE-1C1F5EB0E0AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEF8D2BC-59C6-4196-8BCE-1C1F5EB0E0AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36561B94-186E-4012-BE6C-CA278B350E72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36561B94-186E-4012-BE6C-CA278B350E72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36561B94-186E-4012-BE6C-CA278B350E72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36561B94-186E-4012-BE6C-CA278B350E72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFB55096-5EC6-4515-A584-366AE1A484CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFB55096-5EC6-4515-A584-366AE1A484CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFB55096-5EC6-4515-A584-366AE1A484CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFB55096-5EC6-4515-A584-366AE1A484CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A5E1D86-8631-4E7F-B55B-035015D7B13D}
+	EndGlobalSection
+EndGlobal
